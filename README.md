@@ -11,7 +11,7 @@ src="https://img.shields.io/github/followers/bigy2012?logo=github&style=for-the-
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,ae,au,codepen,django,docker,figma,flutter,git,github,heroku,ai,jquery,laravel,materialui,mysql,mongodb,nextjs,nodejs,nuxtjs,ps,php,postman,pr,py,react,stackoverflow,tailwind,unity,vscode,vue)](https://skillicons.dev)
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
